@@ -1,0 +1,14 @@
+name: twg_event_tables
+title: twg_event_tables
+username:
+account: vl1bsl-justyn0rodrigues
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6510852
+bundleId: 6019828
+url: https://vl1bsl-justyn0rodrigues.shinyapps.io/twg_event_tables/
+when: 1655562094.40807
+lastSyncTime: 1655562094.40808
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: helper/making_data.R
